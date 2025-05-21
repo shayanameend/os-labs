@@ -1,2 +1,5 @@
 # os-labs
-OS Labs (3rd Year)
+
+Operating Systems (CT-353)
+Shayan
+DT-22037
